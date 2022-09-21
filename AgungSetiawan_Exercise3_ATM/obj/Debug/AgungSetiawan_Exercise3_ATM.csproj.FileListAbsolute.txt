@@ -1,0 +1,7 @@
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\bin\Debug\AgungSetiawan_Exercise3_ATM.exe.config
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\bin\Debug\AgungSetiawan_Exercise3_ATM.exe
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\bin\Debug\AgungSetiawan_Exercise3_ATM.pdb
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\obj\Debug\AgungSetiawan_Exercise3_ATM.csproj.AssemblyReference.cache
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\obj\Debug\AgungSetiawan_Exercise3_ATM.csproj.CoreCompileInputs.cache
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\obj\Debug\AgungSetiawan_Exercise3_ATM.exe
+C:\Users\1573\source\repos\AgungSetiawan_Exercise3_ATM\AgungSetiawan_Exercise3_ATM\obj\Debug\AgungSetiawan_Exercise3_ATM.pdb
